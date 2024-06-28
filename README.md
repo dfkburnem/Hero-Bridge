@@ -11,7 +11,7 @@ You can install the package directly from the releases.
 1. To install the package, run:
 
 ```bash
-pip install https://github.com/dfkburnem/Hero-Bridge/releases/download/v.1.0.0/hero_bridge-1.0.0.tar.gz
+pip install https://github.com/dfkburnem/Hero-Bridge/releases/download/v1.0.0/hero_bridge-1.0.0.tar.gz
 ```
 2. Run script using:
 
